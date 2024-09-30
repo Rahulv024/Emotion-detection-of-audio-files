@@ -1,9 +1,7 @@
 # emotion-detection-of-audio-files
 
 This project uses the Data set provided my Toronto emotional speech set data.
-
-Step 1: extract the features from the audio files using MFCC, LPC, and Chroma features.
-
+Step 1: extract the features from the audio files using MFCC, LPC, and Chroma features./n
 Step 2: train the model using the extracted features.
 
 Step 3: test the model using the extracted features.
